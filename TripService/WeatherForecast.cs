@@ -1,3 +1,7 @@
+#nullable enable
+
+using System;
+
 namespace TripService
 {
     public class WeatherForecast
